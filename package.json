@@ -1,0 +1,9 @@
+{
+  "name": "pufferpanel-hotstart",
+  "version": "1.0.0",
+  "description": "Start PufferPanel servers on demand.",
+  "main": "src/index.js",
+  "repository": "https://lab.d513.space/dada513/pufferpanel-hotstart",
+  "author": "dada513",
+  "license": "GPL-3.0-or-later"
+}
